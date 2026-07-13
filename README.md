@@ -26,7 +26,8 @@ This project demonstrates a basic image classification system created with Googl
 
 ## Results
 The trained model was able to recognize whether the input image was a **Train** or a **Bicycle**. The prediction result and confidence score were displayed successfully.
-<img width="1026" height="1280" alt="photo_5954235797106003474_y" src="https://github.com/user-attachments/assets/f7a19c9e-6360-433f-b3e3-e5a37a7e1e0e" />
+<img width="960" height="521" alt="Screenshot 2026-07-13 214549" src="https://github.com/user-attachments/assets/02232adf-c29e-47e9-8cc0-112b7a524459" />
+
 
 
 ## Google Colab
